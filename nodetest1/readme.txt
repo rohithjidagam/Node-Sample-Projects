@@ -1,0 +1,5 @@
+db.usercollection.insert({ "username" : "rohith", "email" : "rohith@testdomain.com" })
+db.usercollection.insert({ "username" : "sri", "email" : "sri@testdomain.com" })
+db.usercollection.insert({ "username" : "bala", "email" : "bala@testdomain.com" })
+db.usercollection.insert({ "username" : "andy", "email" : "andy@testdomain.com" })
+db.usercollection.insert({ "username" : "priya", "email" : "priya@testdomain.com" })
